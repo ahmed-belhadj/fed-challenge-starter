@@ -1,0 +1,72 @@
+{
+  "cards": [
+    {
+      "type": "video",
+      "id": "video_417af7fc-90b7-4170-a5d8-e6987eb1da48",
+      "title": "Lake Inniscarra, Ireland― Pyramid",
+      "thumbnailUrl": "/images/lake-inniscarra-thumb.jpg",
+      "trainerThumbnailUrl": "/images/lake-inniscarra-trainer.jpg",
+      "duration": "30:53",
+      "viewCount": "6,248 M"
+    },
+    {
+      "type": "playlist",
+      "id": "playlist_c2e7c9ed-351c-4e33-a5b8-cc383c2b4f54",
+      "title": "Performance Series",
+      "thumbnailUrl": "/images/performance-series-thumb.jpg",
+      "trainerThumbnailUrl": "/images/performance-series-trainer.jpg",
+      "itemCount": 9
+    },
+    {
+      "type": "video",
+      "id": "video_ad015df1-fc51-4102-9aca-af7dc067b819",
+      "title": "Slow Pulls and Fast Intervals",
+      "thumbnailUrl": "/images/slow-pulls-thumb.jpg",
+      "trainerThumbnailUrl": "/images/slow-pulls-trainer.jpg",
+      "duration": "44:13",
+      "viewCount": "9,948 M"
+    },
+    {
+      "type": "playlist",
+      "id": "playlist_477660fc-15be-400a-b79a-d845e5d087cd",
+      "title": "20 Minutes to Toned",
+      "thumbnailUrl": "/images/20-minutes-to-toned-thumb.jpg",
+      "trainerThumbnailUrl": "/images/20-minutes-to-toned-trainer.jpg",
+      "itemCount": 12
+    },
+    {
+      "type": "video",
+      "id": "video_c3e5a7e5-2559-4c50-84e6-1709af10b3c5",
+      "title": "Charles Race, Boston, Massachusetts",
+      "thumbnailUrl": "/images/charles-race-thumb.jpg",
+      "trainerThumbnailUrl": "/images/charles-race-trainer.jpg",
+      "duration": "36:22",
+      "viewCount": "8,648 M"
+    },
+    {
+      "type": "playlist",
+      "id": "playlist_ee4be053-1af2-427f-b7eb-719d8b6a7884",
+      "title": "Full-Body HIIT Series",
+      "thumbnailUrl": "/images/full-body-hiit-thumb.jpg",
+      "trainerThumbnailUrl": "/images/full-body-hiit-trainer.jpg",
+      "itemCount": 12
+    },
+    {
+      "type": "video",
+      "id": "video_5d41bacb-6bd7-4f91-adde-c689cc3ea867",
+      "title": "Kafue River, Zambia― Power Stroke Pyramid",
+      "thumbnailUrl": "/images/kafue-river-thumb.jpg",
+      "trainerThumbnailUrl": "/images/kafue-river-trainer.jpg",
+      "duration": "22:22",
+      "viewCount": "4,660 M"
+    },
+    {
+      "type": "playlist",
+      "id": "playlist_e7568abb-f6a3-4ece-ae24-e17adb90e0be",
+      "title": "Shred & Burn Series",
+      "thumbnailUrl": "/images/shred-and-burn-thumb.jpg",
+      "trainerThumbnailUrl": "/images/shred-and-burn-trainer.jpg",
+      "itemCount": 16
+    }
+  ]
+}
